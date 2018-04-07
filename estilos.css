@@ -1,0 +1,104 @@
+
+
+body{
+	background-color: #ccc;b
+	font-family: arial;
+}
+
+.contenedor{
+	width: 80%;
+	background-color: #fff;
+	margin: 0 auto;
+	margin-top: 100px;
+}
+
+.persona{
+	width: 7%;
+	margin-top: -70px;
+	border-radius: 50%;
+	border: 8px #ccc solid;
+
+}
+.header{
+	text-align: center;
+	border-bottom: 8px #ccc solid;
+	border-style: 
+}
+
+.header h1{
+	
+	color:black;
+}
+.main{
+	display: table-cell;
+	width: 60%;
+}
+
+h1{
+	color: orange;
+}
+
+
+.año2012{
+	float:left;
+	font-size: 18px;
+	font-weight: 600;
+	margin-right: 20px;
+}
+
+
+.text2012 {
+	float: left;
+	background-color: #ddd;
+	margin-right: 10px;
+	width: 90%;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: justify;
+	margin-bottom: 20px;
+}
+
+.text2012 h3{
+	margin-top: 10px;
+	margin-bottom:0px;
+}
+.text2012 p{
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+
+.año1986{
+	float:left;
+	font-size: 18px;
+	font-weight: 600;
+	margin-right: 20px;
+}
+
+
+.text1986 {
+	float: left;
+	background-color: #ddd;
+	margin-right: 10px;
+	width: 90%;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: justify;
+	margin-bottom: 20px;
+}
+
+.text1986 h3{
+	margin-top: 10px;
+	margin-bottom:0px;
+}
+.text1986 p{
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+
+
+.sidebar{
+	width: 40%;
+	display: table-cell;
+}
