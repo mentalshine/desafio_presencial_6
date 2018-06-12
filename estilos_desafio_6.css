@@ -1,0 +1,482 @@
+
+body{
+	background-color: #eee;
+	font-family: arial;
+}
+
+.cuadro_blanco{
+	background-color: white;
+	width: 80vw;
+	margin: 10vh 10vw;
+}
+
+.img-responsive{
+	max-width: 12%;
+	margin-top: -5%;
+	margin-left: 42.5%;
+	border-radius: 50%;
+	border: solid #eee 8px;
+}
+
+.header h2{
+	text-align: center;
+}
+
+h2 span{
+	color:#ff6600;
+}
+
+.linea_gris_header{
+	background-color: #eee;
+	width: 75vw;
+	height: 0.3vh;
+	margin-left: 2vw;
+}
+
+.bloque1{
+	display: table-cell;
+	width: 45vw;
+}
+
+.acerca{
+	text-align: justify;
+	padding-left: 1vw;
+}
+.negrilla{
+	font-weight: 600;
+	margin-bottom: 0;
+
+}
+.año2012{
+
+	float: left;
+	width: 5vw;
+	font-weight: 600;
+	padding: 0 1vw 0 1vw;
+	box-sizing: border-box;
+}
+
+.cuadro_gris{
+	float: left;
+	background-color: #eee;
+	width: 40vw;
+	text-align: justify;
+	padding: 0 1vw 0 1vw;
+	box-sizing: border-box;
+	margin-bottom: 1vh;
+}
+
+
+.texto{
+	margin-top: 0;
+}
+
+h3{
+	padding: 0 1vw 0 1vw;
+	box-sizing: border-box;
+	color: #ff6600;
+}
+
+.año1986{
+	float: left;
+	width: 5vw;
+	font-weight: 600;
+	padding: 0 1vw 0 1vw;
+	box-sizing: border-box;
+}
+
+.experiencia{
+	float: left;	
+}
+
+.experiencia h3{
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+.google{
+	float: left;
+	padding-left: 1vw;
+
+
+}
+
+.google_año{
+	color: #777;
+	font-size: 0.75rem;
+}
+
+.google p{
+	margin-top: 0;
+}
+
+.front-end{
+	width: 35vw;
+	padding: 0 1vw 0 1vw;
+	margin-left: 10vw;
+	box-sizing: border-box;
+	text-align: justify;
+}
+
+.bloque2{
+	display: table-cell;
+	width: 35vw;
+	padding-left: 3vw;
+}
+
+.python{
+	background-color: #ff6600;
+	width: 28vw;
+	height: 2.5vh;
+	color: #fff;
+	font-size: 0.9em;
+	font-weight: 600;
+	line-height: 2.5vh;
+	margin-bottom: 1vh;
+	padding-left: 1vw;
+	box-sizing: border-box;
+}
+
+.html{
+	background-color: #ff6600;
+	width: 25vw;
+	height: 2.5vh;
+	color: #fff;
+	font-size: 0.9em;
+	font-weight: 600;
+	line-height: 2.5vh;
+	margin-bottom: 1vh;
+	padding-left: 1vw;
+	box-sizing: border-box;
+}
+
+.css{
+	background-color: #ff6600;
+	width: 19vw;
+	height: 2.5vh;
+	color: #fff;
+	font-size: 0.9em;
+	font-weight: 600;
+	line-height: 2.5vh;
+	margin-bottom: 1vh;
+	padding-left: 1vw;
+	box-sizing: border-box;
+}
+
+.js{
+	background-color: #ff6600;
+	width: 14vw;
+	height: 2.5vh;
+	color: #fff;
+	font-size: 0.9em;
+	font-weight: 600;
+	line-height: 2.5vh;
+	margin-bottom: 1vh;
+	padding-left: 1vw;
+	box-sizing: border-box;
+}
+
+.php{
+	background-color: #ff6600;
+	width: 9vw;
+	height: 2.5vh;
+	color: #fff;
+	font-size: 0.9em;
+	font-weight: 600;
+	line-height: 2.5vh;
+	margin-bottom: 1vh;
+	padding-left: 1vw;
+	box-sizing: border-box;
+}
+
+.bloque2 h3{
+	padding: 0 1vw 0 0vw;
+	box-sizing: border-box;
+	color: #ff6600;
+}
+
+.letra_idiomas{
+	float: left;
+	position: relative;
+	top:-1vh;
+	font-size: 0.9em;
+	margin-top: 0;
+	
+}
+
+.l{
+	position: relative;
+	top:-4vh;
+}
+
+ .checked{
+	position: relative;
+	
+	color: #ff6600;
+	top:-3.3vh;
+	left: 22vw;
+}
+
+.unchecked{
+	position: relative;
+	
+	color: #aaa;
+	top:-3.3vh;
+	left: 22vw;
+}
+
+.linea_gris{
+	background-color: #eee;
+	width: 29vw;
+	height: 0.3vh;
+	position: relative;
+	top:-3vh; 
+	
+}
+
+.hobbies{
+	float: left;
+	position: relative;
+	top:-5vh;
+}
+
+.foto{
+	float:left;
+	position: relative;
+	left: -10.2vw;
+	background-color: #660033;
+	margin-left: 1vw;
+	padding: 0 1vw 0 1vw;
+	height: 2.5vh;
+	line-height: 2.5vh;
+	color: white;
+	font-weight: 600;
+	font-size: 0.8em;
+}
+.foto p{
+	margin-top: 0; 
+
+}
+.deporte{
+	float:left;
+	position: relative;
+	left: -10.2vw;
+	background-color: #660033;
+	margin-left: 0.5vw;
+	padding: 0 1vw 0 1vw;
+	height: 2.5vh;
+	line-height: 2.5vh;
+	color: white;
+	font-weight: 600;
+	font-size: 0.8em;
+}
+
+.deporte p{
+	margin-top: 0; 
+}
+.musica{
+	float:left;
+	position: relative;
+	left: -10.2vw;
+	background-color: #660033;
+	margin-left: 0.5vw;
+	padding: 0 1vw 0 1vw;
+	height: 2.5vh;
+	line-height: 2.5vh;
+	color: white;
+	font-weight: 600;
+	font-size: 0.8em;
+}
+
+.musica p{
+	margin-top: 0; 
+}
+
+.linea_fondo{
+	background-color: #eee;
+	width: 78vw;
+	height: 0.3vh;
+	margin-left: 1vw;
+}
+
+.curso{
+	float: right;
+	font-size: 0.9rem;
+	margin-right: 2vw;
+}
+
+.clearfix{
+	clear: both;
+}
+
+.row{
+	clear: both;
+}
+
+.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4,.col-sm-5,
+.col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9,.col-sm-10 
+.col-md-1, .col-md-2, .col-md-3, .col-md-4,.col-md-5,
+.col-md-6, .col-md-7, .col-md-8, .col-md-9,.col-md-10
+{
+	float: left;
+}
+
+@media (max-width: 480px){
+	.col-sm-1{
+		width: 10%;
+	}
+	.col-sm-offset-1{
+		margin-left:10%;
+	}
+
+
+	.col-sm-2{
+		width: 20%;
+	}
+	.col-sm-offset-2{
+		margin-left: 20%;
+	}
+
+
+	.col-sm-3{
+		width: 30%;
+	}
+	.col-sm-offset-3{
+		margin-left: 30%;
+	}
+
+
+	.col-sm-4{
+		width: 40%;
+	}
+	.col-sm-offset-4{
+		margin-left: 40%;
+	}
+
+	.col-sm-5{
+		width: 50%;
+	}
+	.col-sm-offset-5{
+		margin-left: 50%;
+	}
+
+
+	.col-sm-6{
+		width: 60%;
+	}
+	.col-sm-offset-6{
+		margin-left: 60%;
+	}
+
+	.col-sm-7{
+		width: 70%;
+	}
+	.col-sm-offset-7{
+		margin-left: 70%;
+	}
+
+	.col-sm-8{
+		width: 80%;
+	}
+	.col-sm-offset-8{
+		margin-left: 80%;
+	}
+
+	.col-sm-9{
+		width: 90%;
+	}
+	.col-sm-offset-9{
+		margin-left: 90%;
+	}
+
+	.col-sm-10{
+		width: 100%;
+	}
+	.col-sm-offset-10{
+		margin-left: 100%;
+	}
+
+
+}
+
+
+
+@media (min-width: 481px) and (max-width: 1900px) {
+	.col-md-1{
+		width: 10%;
+	}
+	.col-md-offset-1{
+		margin-left: 10%;
+	}
+
+
+	.col-md-2{
+		width: 20%;
+	}
+	.col-md-offset-2{
+		margin-left: 20%;
+	}
+
+
+	.col-md-3{
+		width: 30%;
+	}
+	.col-md-offset-3{
+		margin-left: 30%;
+	}
+
+
+	.col-md-4{
+		width: 40%;
+	}
+	.col-md-offset-4{
+		margin-left: 40%;
+	}
+
+	.col-md-5{
+		width: 50%;
+	}
+	.col-md-offset-5{
+		margin-left: 50%;
+	}
+
+
+	.col-md-6{
+		width: 60%;
+	}
+	.col-md-offset-6{
+		margin-left: 60%;
+	}
+
+	.col-md-7{
+		width: 70%;
+	}
+	.col-md-offset-7{
+		margin-left: 70%;
+	}
+
+	.col-md-8{
+		width: 80%;
+	}
+	.col-md-offset-8{
+		margin-left: 80%;
+	}
+
+	.col-md-9{
+		width: 90%;
+	}
+	.col-md-offset-9{
+		margin-left: 90%;
+	}
+
+	.col-md-10{
+		width: 100%;
+	}
+	.col-md-offset-10{
+		margin-left: 100%;
+	}
+
+
+}
+
+
